@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://1401c628f686cdde.jomoxc.com:9082/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/16s/7.3.0.2/cn/20190903124811/1411f6fa/update.zip?r=WxIVFEp5dRwXJScIHCYWXB0LBA1DNnRQHiF6IwI1CU5SFARLfy8jXhRjZFMYaFMXAEhRSgtsOV1efmVUUnddCQBXU1ABcmscQHhkVA1xAlgcExEAWDc%2FHQslJVwWBApaJzQCHjwwCwgjCgg%3D&xcid=30446b4090024197942a9d1b2af3c152&max_age=7776000&xcsched=3942747254&xclogid=8124368959739906454&xauzkey=mngx_40196f8b1e315976553ceffddf0fe8f2_1680085737&f_ver=v1&limit_rate=3670016
-  ROM_NAME: Flyme
+  ROM_URL: https://om38b8iof8q100el5jvu8kbaon9sn0jbset1jcej3buev4k4lljfv2ff.qc.dolfincdnx.net:10443/xdispatchb797285ab47f2b84/bigota.d.miui.com/V12.0.6.0.QFJCNXM/miui_DAVINCI_V12.0.6.0.QFJCNXM_5ca52304f9_10.0.zip?bsreqid=22153caab10206c85ed02822c45e9dfb&coldbiz=1&bsxdisp=se
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
